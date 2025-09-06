@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Full stack react project, Front-end React, back-end spring boot, DB MySQL
+
+This is my first fullstack project Front-end technology ---> react Back-end- technology ---> Spring boot Database ---> MySQL For DB details Data base name -> fullstack table name --> user
+
 ## Available Scripts
 
 In the project directory, you can run:
